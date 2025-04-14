@@ -3,7 +3,7 @@
 track enhancers
 shortLabel enhancers
 longLabel enhancers
-type bigBed
+type bigBed 9
 autoScale on
 visibility full
 compositeTrack on
@@ -13,20 +13,19 @@ compositeTrack on
     bigDataUrl enhancers/all_classes.bb
     shortLabel all_classes
     longLabel all_classes
-    type bigBed
+    type bigBed 9
     visibility full
     maxHeightPixels 100:32:8
     autoscale group
     autoScale on
-    itemRgb on    
-
+    itemRgb on
 
     track enhClusters
     parent enhancers on
     bigDataUrl enhancers/enhClusters.bb
     shortLabel enhClusters
     longLabel enhClusters
-    type bigBed
+    type bigBed 9
     visibility full
     maxHeightPixels 100:32:8
     autoscale group
