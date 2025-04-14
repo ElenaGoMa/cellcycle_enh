@@ -13,12 +13,11 @@ compositeTrack on
     bigDataUrl enhancers/all_classes.bb
     shortLabel all_classes
     longLabel all_classes
-    type bigBed 9
+    type bigBed
     visibility full
     maxHeightPixels 100:32:8
     autoscale group
     autoScale on
-    itemRgb on
 
     track enhClusters
     parent enhancers on
