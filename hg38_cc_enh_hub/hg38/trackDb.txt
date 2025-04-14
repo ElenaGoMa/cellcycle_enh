@@ -18,6 +18,8 @@ compositeTrack on
     maxHeightPixels 100:32:8
     autoscale group
     autoScale on
+    itemRgb on    
+
 
     track enhClusters
     parent enhancers on
@@ -29,6 +31,7 @@ compositeTrack on
     maxHeightPixels 100:32:8
     autoscale group
     autoScale on
+    itemRgb on
 
 
 track minus
