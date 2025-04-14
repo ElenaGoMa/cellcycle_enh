@@ -3,7 +3,7 @@
 track enhancers
 shortLabel enhancers
 longLabel enhancers
-type bigBed 9
+type bigBed
 autoScale on
 visibility full
 compositeTrack on
