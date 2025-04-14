@@ -1,0 +1,5 @@
+hub cellcycle_enh_hub 
+shortLabel cellcycle_enh_hub
+longLabel cellcycle_enh_hub
+genomesFile genomes.txt
+email e.gomez-marin@lms.mrc.ac.uk
